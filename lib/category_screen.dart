@@ -12,7 +12,7 @@ class CategoryScreen extends StatelessWidget {
       ),
       
       body:GridView(
-        padding: const EdgeInsets.all(5),
+        padding: const EdgeInsets.all(15),
         
         children:
           DUMMY_CATEGORIES
